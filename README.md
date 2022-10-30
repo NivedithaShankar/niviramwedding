@@ -1,5 +1,7 @@
 # Wedding Landing Page - Daeng Sherly Menikah
 
+Quick access: https://ramanans1.github.io/niviramwedding/
+
 ![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
 
 
