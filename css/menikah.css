@@ -607,23 +607,144 @@ body.preloader-site {
   min-height: 24rem;
 }
 
-.foto5 {
+/* .foto5 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-red-car.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
   min-height: 24rem;
+} */
+
+.foto5 {
+  background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_engagement.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 50rem;
 }
 
+/* background-image: url(https://picsum.photos/id/25/1920/1080);
+background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("../image/ramanan_niveditha_engagement.jpg") no-repeat;
+background-attachment: fixed;
+background-size: cover;
+color: white;
+box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+font-family: 'Raleway', sans-serif;
+} */
 
-.foto6 {
+
+/* .foto6 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-engagement-ami.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
   min-height: 24rem;
+} */
+
+/* .foto7 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo2.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 39rem;
 }
 
+.foto8 {
+  background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_photo3.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 30rem;
+}
+
+.foto9 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo5.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 30rem;
+} */
+
+
+.foto4 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo2.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 39rem;
+}
+
+.foto5 {
+  background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_photo3.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 30rem;
+}
+
+.foto6 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo5.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 30rem;
+}
+
+
+.foto7 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo9.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 40rem;
+}
+
+
+.foto1 {
+  background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_photo6.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 50rem;
+}
+
+.foto2 {
+  background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_photo7.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 50rem;
+}
+
+.foto3 {
+  background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_engagement.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 50rem;
+}
 
 
 .title-foto {
