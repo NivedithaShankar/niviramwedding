@@ -719,8 +719,10 @@ font-family: 'Raleway', sans-serif;
 
 .foto1 {
   background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_photo6.jpg");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
+  background-repeat:no-repeat;
   background-size: cover;
+  background-position: center;
   /* color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;   */
@@ -729,8 +731,9 @@ font-family: 'Raleway', sans-serif;
 
 .foto2 {
   background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_photo7.jpg");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-size: cover;
+  background-repeat:no-repeat;
   /* color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;   */
@@ -739,8 +742,9 @@ font-family: 'Raleway', sans-serif;
 
 .foto3 {
   background-image: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), url("../image/ramanan_niveditha_engagement.jpg");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-size: cover;
+  background-repeat:no-repeat;
   /* color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;   */
