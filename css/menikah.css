@@ -676,7 +676,8 @@ font-family: 'Raleway', sans-serif;
 
 .foto7 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo2.jpg");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
+  background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
   color: white;
@@ -687,7 +688,8 @@ font-family: 'Raleway', sans-serif;
 
 .foto5 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo3.jpg");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
+  background-repeat:no-repeat;
   background-size: cover;
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
@@ -697,8 +699,9 @@ font-family: 'Raleway', sans-serif;
 
 .foto6 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo5.jpg");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-size: cover;
+  background-repeat:no-repeat;
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;  
@@ -708,8 +711,9 @@ font-family: 'Raleway', sans-serif;
 
 .foto4 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo9.jpg");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-size: cover;
+  background-repeat:no-repeat;
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;  
@@ -726,7 +730,7 @@ font-family: 'Raleway', sans-serif;
   /* color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;   */
-  min-height: 24rem;
+  min-height: 50rem;
 }
 
 .foto2 {
@@ -737,7 +741,7 @@ font-family: 'Raleway', sans-serif;
   /* color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;   */
-  min-height: 24rem;
+  min-height: 50rem;
 }
 
 .foto3 {
@@ -748,7 +752,7 @@ font-family: 'Raleway', sans-serif;
   /* color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;   */
-  min-height: 24rem;
+  min-height: 50rem;
 }
 
 .responsive {
