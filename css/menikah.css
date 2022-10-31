@@ -686,6 +686,18 @@ font-family: 'Raleway', sans-serif;
   min-height: 39rem;
 }
 
+.foto71 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo2_mobile.jpg");
+  /* background-attachment: fixed; */
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  font-family: 'Raleway', sans-serif;  
+  min-height: 24rem;
+}
+
 .foto5 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo3.jpg");
   /* background-attachment: fixed; */
@@ -710,7 +722,7 @@ font-family: 'Raleway', sans-serif;
 
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo9_desktop.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/ramanan_niveditha_photo9_desktop.JPG");
   /* background-attachment: fixed; */
   background-size: cover;
   background-repeat:no-repeat;
