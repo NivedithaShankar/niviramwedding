@@ -747,6 +747,10 @@ font-family: 'Raleway', sans-serif;
   min-height: 24rem;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
 
 .title-foto {
   font-size: 18pt;
